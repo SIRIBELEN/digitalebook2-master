@@ -156,7 +156,7 @@ function createStructure(
 function ALayoutGenerator(titles, text, page) {
   return `
   <div class="Alayout-container">
-    <img id="caratula" src="images/caratula.jpg">
+    <img id="caratula" src="images/caratula.png">
       <div class="button-caratula-container">
         <button class="nav-buttons" id="comenzar-button" onclick="nextPage()">Comienza</button>
       </div>
